@@ -1,0 +1,21 @@
+## VIP
+-v $(VERILOG_PATH)/dv/vip/tbuart.v
+-v $(VERILOG_PATH)/dv/vip/spiflash.v
+-v $(VERILOG_PATH)/dv/vip/wb_rw_test.v
+
+## DFFRAM Behavioral Model
+-v $(VERILOG_PATH)/dv/vip/DFFRAM.v
+
+## DFFRAM Full RTL
+#-v $(VERILOG_PATH)/rtl/DFFRAM.v
+#-v $(VERILOG_PATH)/rtl/DFFRAMBB.v
+
+# Mgmt Core Wrapper
+-v $(VERILOG_PATH)/rtl/defines.v
+-v $(VERILOG_PATH)/rtl/mgmt_core.v
+-v $(VERILOG_PATH)/rtl/mgmt_core_wrapper.v
+-v $(VERILOG_PATH)/rtl/VexRiscv_MinDebugCache.v
+
+## SRAM Behavioral Model
+-v $(PDK_ROOT)/$(PDK)/libs.ref/gf180mcuC/libs.ref/gf180mcu_sram/verilog/GF018_5VGreen_SRAM_1P_512x8M8WM1.v
+
