@@ -1,0 +1,43 @@
+{
+    "foundry": "GF",
+    "foundry-name": "Global Foundries",
+    "node": "gf180mcuB",
+    "feature-size": "180nm",
+    "status": "active",
+    "description": "Global Foundries 0.18um MCU CMOS, 2fF MiM + 1k high sheet rho poly + 4 metal layer backend stack + 1.1um thick top metal + 2fF/um^2 MiM caps 1 1",
+    "options": [
+	"MIM_2P0",
+	"METAL4"
+    ],
+    "stdcells": {
+        "gf180mcu_fd_sc_mcu9t5v0": "16154d5495bd351e390343115ae6f8d1275e8003",
+        "gf180mcu_fd_sc_mcu7t5v0": "0b28b8d0f0a027a83b97a232e5ab667d7c37792b"
+    },
+    "iocells": {
+        "gf180mcu_fd_io": "bcaa40aaf6cf04d6e9cb143d0e5b0de9429e53ab"
+    },
+    "primitive": {
+        "gf180mcu_fd_pr": "e1b4e187900370103bf9b8a22bb8625f883368ef"
+    },
+    "memory": {
+        "gf180mcu_fd_ip_sram": "9c411928870ce15226228fa52ddb6ecc0ea4ffbe"
+    },
+    "build": {
+        "open_pdks": "1.0.349",
+        "magic": "8.3.331"
+    },
+    "commit": {
+        "open_pdks": "0059588eebfc704681dc2368bd1d33d96281d10f",
+        "magic": ""
+    },
+    "reference": {
+        "open_pdks": "a517779da3d3f3e57a24d9b4ef0a4559cd9abccc",
+        "magic": "94daf986ab9aa94a9ae2ac3539fa5def9bd2a1ac",
+        "gf180mcu_pdk": "a897aa30369d3bcec87d9d50ce9b01f320f854ef",
+        "gf180mcu_fd_pr": "e1b4e187900370103bf9b8a22bb8625f883368ef",
+        "gf180mcu_fd_io": "bcaa40aaf6cf04d6e9cb143d0e5b0de9429e53ab",
+        "gf180mcu_fd_sc_mcu7t5v0": "0b28b8d0f0a027a83b97a232e5ab667d7c37792b",
+        "gf180mcu_fd_sc_mcu9t5v0": "16154d5495bd351e390343115ae6f8d1275e8003",
+        "gf180mcu_fd_ip_sram": "9c411928870ce15226228fa52ddb6ecc0ea4ffbe"
+    }
+}

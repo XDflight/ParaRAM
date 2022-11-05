@@ -1,0 +1,78 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< mvnmos >>
+rect 0 0 120 1996
+rect 224 0 344 1996
+rect 448 0 568 1996
+rect 672 0 792 1996
+rect 896 0 1016 1996
+<< mvndiff >>
+rect -88 1983 0 1996
+rect -88 13 -75 1983
+rect -29 13 0 1983
+rect -88 0 0 13
+rect 120 1983 224 1996
+rect 120 13 149 1983
+rect 195 13 224 1983
+rect 120 0 224 13
+rect 344 1983 448 1996
+rect 344 13 373 1983
+rect 419 13 448 1983
+rect 344 0 448 13
+rect 568 1983 672 1996
+rect 568 13 597 1983
+rect 643 13 672 1983
+rect 568 0 672 13
+rect 792 1983 896 1996
+rect 792 13 821 1983
+rect 867 13 896 1983
+rect 792 0 896 13
+rect 1016 1983 1104 1996
+rect 1016 13 1045 1983
+rect 1091 13 1104 1983
+rect 1016 0 1104 13
+<< mvndiffc >>
+rect -75 13 -29 1983
+rect 149 13 195 1983
+rect 373 13 419 1983
+rect 597 13 643 1983
+rect 821 13 867 1983
+rect 1045 13 1091 1983
+<< polysilicon >>
+rect 0 1996 120 2040
+rect 224 1996 344 2040
+rect 448 1996 568 2040
+rect 672 1996 792 2040
+rect 896 1996 1016 2040
+rect 0 -44 120 0
+rect 224 -44 344 0
+rect 448 -44 568 0
+rect 672 -44 792 0
+rect 896 -44 1016 0
+<< metal1 >>
+rect -75 1983 -29 1996
+rect -75 0 -29 13
+rect 149 1983 195 1996
+rect 149 0 195 13
+rect 373 1983 419 1996
+rect 373 0 419 13
+rect 597 1983 643 1996
+rect 597 0 643 13
+rect 821 1983 867 1996
+rect 821 0 867 13
+rect 1045 1983 1091 1996
+rect 1045 0 1091 13
+<< labels >>
+flabel metal1 s -52 998 -52 998 0 FreeSans 200 0 0 0 S
+flabel metal1 s 1068 998 1068 998 0 FreeSans 200 0 0 0 D
+flabel metal1 s 172 998 172 998 0 FreeSans 200 0 0 0 D
+flabel metal1 s 396 998 396 998 0 FreeSans 200 0 0 0 S
+flabel metal1 s 620 998 620 998 0 FreeSans 200 0 0 0 D
+flabel metal1 s 844 998 844 998 0 FreeSans 200 0 0 0 S
+<< properties >>
+string GDS_END 381996
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram512x8m8wm1.gds
+string GDS_START 372212
+<< end >>

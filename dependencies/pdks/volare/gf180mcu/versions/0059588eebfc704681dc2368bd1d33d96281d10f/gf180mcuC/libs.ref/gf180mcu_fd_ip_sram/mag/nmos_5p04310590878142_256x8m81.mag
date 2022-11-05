@@ -1,0 +1,56 @@
+magic
+tech gf180mcuC
+magscale 1 10
+timestamp 1666464484
+<< mvnmos >>
+rect 0 0 120 160
+rect 224 0 344 160
+rect 448 0 568 160
+<< mvndiff >>
+rect -88 103 0 160
+rect -88 57 -75 103
+rect -29 57 0 103
+rect -88 0 0 57
+rect 120 103 224 160
+rect 120 57 149 103
+rect 195 57 224 103
+rect 120 0 224 57
+rect 344 103 448 160
+rect 344 57 373 103
+rect 419 57 448 103
+rect 344 0 448 57
+rect 568 103 656 160
+rect 568 57 597 103
+rect 643 57 656 103
+rect 568 0 656 57
+<< mvndiffc >>
+rect -75 57 -29 103
+rect 149 57 195 103
+rect 373 57 419 103
+rect 597 57 643 103
+<< polysilicon >>
+rect 0 160 120 204
+rect 224 160 344 204
+rect 448 160 568 204
+rect 0 -44 120 0
+rect 224 -44 344 0
+rect 448 -44 568 0
+<< metal1 >>
+rect -75 103 -29 160
+rect -75 0 -29 57
+rect 149 103 195 160
+rect 149 0 195 57
+rect 373 103 419 160
+rect 373 0 419 57
+rect 597 103 643 160
+rect 597 0 643 57
+<< labels >>
+flabel metal1 s -52 80 -52 80 0 FreeSans 200 0 0 0 S
+flabel metal1 s 620 80 620 80 0 FreeSans 200 0 0 0 D
+flabel metal1 s 172 80 172 80 0 FreeSans 200 0 0 0 D
+flabel metal1 s 396 80 396 80 0 FreeSans 200 0 0 0 S
+<< properties >>
+string GDS_END 237190
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram256x8m8wm1.gds
+string GDS_START 235274
+<< end >>

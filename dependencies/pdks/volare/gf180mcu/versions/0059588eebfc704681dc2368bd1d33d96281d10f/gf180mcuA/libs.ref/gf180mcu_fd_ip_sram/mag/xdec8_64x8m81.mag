@@ -1,0 +1,173 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< metal1 >>
+rect 13005 6904 13121 7024
+rect 13005 6671 13121 6791
+rect 15025 6585 15097 6659
+rect 15025 5941 15097 6015
+rect 13005 5809 13121 5929
+rect 13005 5578 13121 5698
+rect 13005 5104 13121 5224
+rect 13005 4871 13121 4991
+rect 15025 4785 15097 4859
+rect 15025 4141 15097 4215
+rect 13005 4009 13121 4129
+rect 13005 3778 13121 3898
+rect 13005 3304 13121 3424
+rect 13005 3071 13121 3191
+rect 15025 2985 15097 3059
+rect 15025 2341 15097 2415
+rect 13005 2209 13121 2329
+rect 13005 1978 13121 2098
+rect 13005 1504 13121 1624
+rect 13005 1271 13121 1391
+rect 15025 1185 15097 1259
+rect 15025 541 15097 615
+rect 13005 409 13121 529
+rect 13005 178 13121 298
+<< metal2 >>
+rect 6836 -21 6966 112
+<< metal3 >>
+rect 132 7133 261 7267
+rect 786 6693 876 6786
+rect 23379 6693 23468 6786
+rect 132 6233 261 6367
+rect 786 5814 876 5907
+rect 23379 5814 23468 5907
+rect 786 4891 876 4984
+rect 23379 4891 23468 4984
+rect 786 4014 876 4107
+rect 23379 4014 23468 4107
+rect 786 3091 876 3184
+rect 23379 3091 23468 3184
+rect 786 2214 876 2307
+rect 23379 2214 23468 2307
+rect 786 1298 876 1391
+rect 23379 1298 23468 1391
+rect 786 414 876 507
+use xdec_64x8m81  xdec_64x8m81_0
+timestamp 1666464484
+transform 1 0 1 0 -1 6300
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_1
+timestamp 1666464484
+transform 1 0 1 0 -1 4500
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_2
+timestamp 1666464484
+transform 1 0 1 0 -1 2700
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_3
+timestamp 1666464484
+transform 1 0 1 0 -1 900
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_4
+timestamp 1666464484
+transform 1 0 1 0 1 6300
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_5
+timestamp 1666464484
+transform 1 0 1 0 1 4500
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_6
+timestamp 1666464484
+transform 1 0 1 0 1 2700
+box -1 -223 24218 1128
+use xdec_64x8m81  xdec_64x8m81_7
+timestamp 1666464484
+transform 1 0 1 0 1 900
+box -1 -223 24218 1128
+<< labels >>
+rlabel metal1 s 13063 238 13063 238 4 xc
+port 1 nsew
+rlabel metal1 s 13063 1331 13063 1331 4 xb
+port 2 nsew
+rlabel metal1 s 13063 4069 13063 4069 4 xb
+port 2 nsew
+rlabel metal1 s 13063 5869 13063 5869 4 xb
+port 2 nsew
+rlabel metal1 s 13063 1564 13063 1564 4 xc
+port 1 nsew
+rlabel metal1 s 13063 5638 13063 5638 4 xc
+port 1 nsew
+rlabel metal1 s 15061 4178 15061 4178 4 xa[4]
+port 3 nsew
+rlabel metal1 s 15061 3022 15061 3022 4 xa[3]
+port 4 nsew
+rlabel metal1 s 15061 4822 15061 4822 4 xa[5]
+port 5 nsew
+rlabel metal1 s 15061 5978 15061 5978 4 xa[6]
+port 6 nsew
+rlabel metal1 s 15061 6622 15061 6622 4 xa[7]
+port 7 nsew
+rlabel metal1 s 15061 578 15061 578 4 xa[0]
+port 8 nsew
+rlabel metal1 s 15061 1222 15061 1222 4 xa[1]
+port 9 nsew
+rlabel metal1 s 15061 2378 15061 2378 4 xa[2]
+port 10 nsew
+rlabel metal1 s 13063 469 13063 469 4 xb
+port 2 nsew
+rlabel metal1 s 13063 3838 13063 3838 4 xc
+port 1 nsew
+rlabel metal1 s 13063 2038 13063 2038 4 xc
+port 1 nsew
+rlabel metal1 s 13063 3364 13063 3364 4 xc
+port 1 nsew
+rlabel metal1 s 13063 5164 13063 5164 4 xc
+port 1 nsew
+rlabel metal1 s 13063 6964 13063 6964 4 xc
+port 1 nsew
+rlabel metal1 s 13063 3131 13063 3131 4 xb
+port 2 nsew
+rlabel metal1 s 13063 4931 13063 4931 4 xb
+port 2 nsew
+rlabel metal1 s 13063 6731 13063 6731 4 xb
+port 2 nsew
+rlabel metal1 s 13063 2269 13063 2269 4 xb
+port 2 nsew
+rlabel metal3 s 23424 460 23424 460 4 RWL[0]
+port 11 nsew
+rlabel metal3 s 831 4938 831 4938 4 LWL[5]
+port 12 nsew
+rlabel metal3 s 831 4060 831 4060 4 LWL[4]
+port 13 nsew
+rlabel metal3 s 831 2260 831 2260 4 LWL[2]
+port 14 nsew
+rlabel metal3 s 23424 4938 23424 4938 4 RWL[5]
+port 15 nsew
+rlabel metal3 s 23424 4060 23424 4060 4 RWL[4]
+port 16 nsew
+rlabel metal3 s 23424 2260 23424 2260 4 RWL[2]
+port 17 nsew
+rlabel metal3 s 23424 1344 23424 1344 4 RWL[1]
+port 18 nsew
+rlabel metal3 s 23424 6740 23424 6740 4 RWL[7]
+port 19 nsew
+rlabel metal3 s 23424 5860 23424 5860 4 RWL[6]
+port 20 nsew
+rlabel metal3 s 831 1344 831 1344 4 LWL[1]
+port 21 nsew
+rlabel metal3 s 831 6740 831 6740 4 LWL[7]
+port 22 nsew
+rlabel metal3 s 831 5860 831 5860 4 LWL[6]
+port 23 nsew
+rlabel metal3 s 831 460 831 460 4 LWL[0]
+port 24 nsew
+rlabel metal3 s 831 3138 831 3138 4 LWL[3]
+port 25 nsew
+rlabel metal3 s 196 6300 196 6300 4 vss
+port 26 nsew
+rlabel metal3 s 196 7200 196 7200 4 vdd
+port 27 nsew
+rlabel metal3 s 23424 3138 23424 3138 4 RWL[3]
+port 28 nsew
+rlabel metal2 s 6901 45 6901 45 4 men
+port 29 nsew
+<< properties >>
+string GDS_END 1318258
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram64x8m8wm1.gds
+string GDS_START 1313518
+<< end >>

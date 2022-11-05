@@ -1,0 +1,169 @@
+magic
+tech gf180mcuB
+timestamp 1666464484
+<< metal1 >>
+rect 0 147 124 159
+rect 28 106 33 147
+rect 59 114 64 140
+rect 58 103 64 114
+rect 90 106 95 147
+rect 71 67 81 73
+rect 25 41 35 47
+rect 87 41 97 47
+rect 28 9 33 33
+rect 58 25 64 36
+rect 59 16 64 25
+rect 90 9 95 33
+rect 0 -3 124 9
+<< obsm1 >>
+rect 11 73 16 140
+rect 107 86 112 140
+rect 51 80 112 86
+rect 11 67 66 73
+rect 11 16 16 67
+rect 60 47 66 67
+rect 58 41 68 47
+rect 107 16 112 80
+<< metal2 >>
+rect 10 154 18 155
+rect 34 154 42 155
+rect 58 154 66 155
+rect 82 154 90 155
+rect 106 154 114 155
+rect 9 148 19 154
+rect 33 148 43 154
+rect 57 148 67 154
+rect 81 148 91 154
+rect 105 148 115 154
+rect 10 147 18 148
+rect 34 147 42 148
+rect 58 147 66 148
+rect 82 147 90 148
+rect 106 147 114 148
+rect 58 113 64 116
+rect 57 105 65 113
+rect 27 48 33 49
+rect 26 40 34 48
+rect 27 21 33 40
+rect 58 35 64 105
+rect 73 74 79 75
+rect 72 66 80 74
+rect 56 27 66 35
+rect 73 21 79 66
+rect 89 48 95 49
+rect 88 47 96 48
+rect 87 41 97 47
+rect 88 40 96 41
+rect 89 39 95 40
+rect 27 15 79 21
+rect 10 8 18 9
+rect 34 8 42 9
+rect 58 8 66 9
+rect 82 8 90 9
+rect 106 8 114 9
+rect 9 2 19 8
+rect 33 2 43 8
+rect 57 2 67 8
+rect 81 2 91 8
+rect 105 2 115 8
+rect 10 1 18 2
+rect 34 1 42 2
+rect 58 1 66 2
+rect 82 1 90 2
+rect 106 1 114 2
+<< labels >>
+rlabel metal2 s 27 15 33 49 6 A
+port 1 nsew signal input
+rlabel metal2 s 26 40 34 48 6 A
+port 1 nsew signal input
+rlabel metal2 s 27 15 79 21 6 A
+port 1 nsew signal input
+rlabel metal2 s 73 15 79 75 6 A
+port 1 nsew signal input
+rlabel metal2 s 72 66 80 74 6 A
+port 1 nsew signal input
+rlabel metal1 s 25 41 35 47 6 A
+port 1 nsew signal input
+rlabel metal1 s 71 67 81 73 6 A
+port 1 nsew signal input
+rlabel metal2 s 89 39 95 49 6 B
+port 2 nsew signal input
+rlabel metal2 s 88 40 96 48 6 B
+port 2 nsew signal input
+rlabel metal2 s 87 41 97 47 6 B
+port 2 nsew signal input
+rlabel metal1 s 87 41 97 47 6 B
+port 2 nsew signal input
+rlabel metal2 s 10 147 18 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 9 148 19 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 34 147 42 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 33 148 43 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 58 147 66 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 57 148 67 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 82 147 90 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 81 148 91 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 106 147 114 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 105 148 115 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 28 106 33 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 90 106 95 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 0 147 124 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 10 1 18 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 9 2 19 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 34 1 42 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 33 2 43 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 58 1 66 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 57 2 67 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 82 1 90 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 81 2 91 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 106 1 114 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 105 2 115 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 28 -3 33 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 90 -3 95 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 0 -3 124 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 58 27 64 116 6 Y
+port 5 nsew signal output
+rlabel metal2 s 57 105 65 113 6 Y
+port 5 nsew signal output
+rlabel metal2 s 56 27 66 35 6 Y
+port 5 nsew signal output
+rlabel metal1 s 58 103 64 114 6 Y
+port 5 nsew signal output
+rlabel metal1 s 59 103 64 140 6 Y
+port 5 nsew signal output
+rlabel metal1 s 59 16 64 36 6 Y
+port 5 nsew signal output
+rlabel metal1 s 58 25 64 36 6 Y
+port 5 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 -3 124 159
+string LEFclass CORE
+string LEFsite GF018hv5v_mcu_sc7
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

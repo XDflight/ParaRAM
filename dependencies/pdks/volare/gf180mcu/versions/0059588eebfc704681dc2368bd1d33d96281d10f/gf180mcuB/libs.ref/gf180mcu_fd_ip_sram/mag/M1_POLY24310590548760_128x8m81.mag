@@ -1,0 +1,21 @@
+magic
+tech gf180mcuB
+magscale 1 10
+timestamp 1666464484
+<< polysilicon >>
+rect -2157 23 2157 42
+rect -2157 -23 -2138 23
+rect 2138 -23 2157 23
+rect -2157 -42 2157 -23
+<< polycontact >>
+rect -2138 -23 2138 23
+<< metal1 >>
+rect -2149 23 2149 34
+rect -2149 -23 -2138 23
+rect 2138 -23 2149 23
+rect -2149 -34 2149 -23
+<< properties >>
+string GDS_END 812880
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram128x8m8wm1.gds
+string GDS_START 809804
+<< end >>

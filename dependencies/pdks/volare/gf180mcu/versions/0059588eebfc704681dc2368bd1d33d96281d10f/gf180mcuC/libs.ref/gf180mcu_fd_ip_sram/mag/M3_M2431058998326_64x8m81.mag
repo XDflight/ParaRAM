@@ -1,0 +1,77 @@
+magic
+tech gf180mcuC
+magscale 1 5
+timestamp 1666464484
+<< metal2 >>
+rect -71 298 71 303
+rect -71 270 -66 298
+rect 66 270 71 298
+rect -71 227 71 270
+rect -71 199 -66 227
+rect 66 199 71 227
+rect -71 156 71 199
+rect -71 128 -66 156
+rect 66 128 71 156
+rect -71 85 71 128
+rect -71 57 -66 85
+rect 66 57 71 85
+rect -71 14 71 57
+rect -71 -14 -66 14
+rect 66 -14 71 14
+rect -71 -57 71 -14
+rect -71 -85 -66 -57
+rect 66 -85 71 -57
+rect -71 -128 71 -85
+rect -71 -156 -66 -128
+rect 66 -156 71 -128
+rect -71 -199 71 -156
+rect -71 -227 -66 -199
+rect 66 -227 71 -199
+rect -71 -270 71 -227
+rect -71 -298 -66 -270
+rect 66 -298 71 -270
+rect -71 -303 71 -298
+<< via2 >>
+rect -66 270 66 298
+rect -66 199 66 227
+rect -66 128 66 156
+rect -66 57 66 85
+rect -66 -14 66 14
+rect -66 -85 66 -57
+rect -66 -156 66 -128
+rect -66 -227 66 -199
+rect -66 -298 66 -270
+<< metal3 >>
+rect -71 298 71 303
+rect -71 270 -66 298
+rect 66 270 71 298
+rect -71 227 71 270
+rect -71 199 -66 227
+rect 66 199 71 227
+rect -71 156 71 199
+rect -71 128 -66 156
+rect 66 128 71 156
+rect -71 85 71 128
+rect -71 57 -66 85
+rect 66 57 71 85
+rect -71 14 71 57
+rect -71 -14 -66 14
+rect 66 -14 71 14
+rect -71 -57 71 -14
+rect -71 -85 -66 -57
+rect 66 -85 71 -57
+rect -71 -128 71 -85
+rect -71 -156 -66 -128
+rect 66 -156 71 -128
+rect -71 -199 71 -156
+rect -71 -227 -66 -199
+rect 66 -227 71 -199
+rect -71 -270 71 -227
+rect -71 -298 -66 -270
+rect 66 -298 71 -270
+rect -71 -303 71 -298
+<< properties >>
+string GDS_END 1910802
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram64x8m8wm1.gds
+string GDS_START 1908942
+<< end >>

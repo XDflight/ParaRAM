@@ -1,0 +1,78 @@
+magic
+tech gf180mcuA
+timestamp 1667403424
+<< metal1 >>
+rect 0 147 76 159
+rect 39 106 47 147
+rect 59 99 64 140
+rect 59 93 69 99
+rect 18 67 28 73
+rect 33 54 43 60
+rect 8 9 13 33
+rect 42 9 47 33
+rect 59 16 64 93
+rect 0 -3 76 9
+<< obsm1 >>
+rect 11 107 16 140
+rect 8 102 16 107
+rect 8 86 13 102
+rect 8 80 54 86
+rect 8 46 13 80
+rect 8 41 30 46
+rect 25 16 30 41
+<< metal2 >>
+rect 9 147 19 155
+rect 33 147 43 155
+rect 57 147 67 155
+rect 59 92 69 100
+rect 18 66 28 74
+rect 33 53 43 61
+rect 9 1 19 9
+rect 33 1 43 9
+rect 57 1 67 9
+<< obsm2 >>
+rect 44 79 54 87
+<< labels >>
+rlabel metal2 s 18 66 28 74 6 A
+port 1 nsew signal input
+rlabel metal1 s 18 67 28 73 6 A
+port 1 nsew signal input
+rlabel metal2 s 33 53 43 61 6 B
+port 2 nsew signal input
+rlabel metal1 s 33 54 43 60 6 B
+port 2 nsew signal input
+rlabel metal2 s 9 147 19 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 33 147 43 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 57 147 67 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 39 106 47 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 0 147 76 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 9 1 19 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 33 1 43 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 57 1 67 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 8 -3 13 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 42 -3 47 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 0 -3 76 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 59 92 69 100 6 Y
+port 5 nsew signal output
+rlabel metal1 s 59 16 64 140 6 Y
+port 5 nsew signal output
+rlabel metal1 s 59 93 69 99 6 Y
+port 5 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 -3 76 159
+string LEFclass CORE
+string LEFsite GF018hv5v_mcu_sc7
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

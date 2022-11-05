@@ -1,0 +1,55 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< metal1 >>
+rect 0 270 96 308
+rect 0 218 22 270
+rect 74 218 96 270
+rect 0 90 96 218
+rect 0 38 22 90
+rect 74 38 96 90
+rect 0 0 96 38
+<< via1 >>
+rect 22 218 74 270
+rect 22 38 74 90
+<< metal2 >>
+rect -1 272 96 308
+rect -1 216 20 272
+rect 76 216 96 272
+rect -1 92 96 216
+rect -1 36 20 92
+rect 76 36 96 92
+rect -1 0 96 36
+<< via2 >>
+rect 20 270 76 272
+rect 20 218 22 270
+rect 22 218 74 270
+rect 74 218 76 270
+rect 20 216 76 218
+rect 20 90 76 92
+rect 20 38 22 90
+rect 22 38 74 90
+rect 74 38 76 90
+rect 20 36 76 38
+<< metal3 >>
+rect -1 272 96 308
+rect -1 216 20 272
+rect 76 216 96 272
+rect -1 92 96 216
+rect -1 36 20 92
+rect 76 36 96 92
+rect -1 -1 96 36
+use via1_x2_R270_512x8m81  via1_x2_R270_512x8m81_0
+timestamp 1666464484
+transform 1 0 0 0 1 0
+box 0 0 1 1
+use via2_x2_R270_512x8m81  via2_x2_R270_512x8m81_0
+timestamp 1666464484
+transform 1 0 0 0 1 0
+box 0 0 1 1
+<< properties >>
+string GDS_END 204056
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram512x8m8wm1.gds
+string GDS_START 203960
+<< end >>

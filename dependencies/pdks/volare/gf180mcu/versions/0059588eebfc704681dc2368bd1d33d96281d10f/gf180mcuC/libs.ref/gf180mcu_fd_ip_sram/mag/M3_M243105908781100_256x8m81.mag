@@ -1,0 +1,70 @@
+magic
+tech gf180mcuC
+magscale 1 5
+timestamp 1666464484
+<< metal2 >>
+rect -19 210 19 215
+rect -19 182 -14 210
+rect 14 182 19 210
+rect -19 154 19 182
+rect -19 126 -14 154
+rect 14 126 19 154
+rect -19 98 19 126
+rect -19 70 -14 98
+rect 14 70 19 98
+rect -19 42 19 70
+rect -19 14 -14 42
+rect 14 14 19 42
+rect -19 -14 19 14
+rect -19 -42 -14 -14
+rect 14 -42 19 -14
+rect -19 -70 19 -42
+rect -19 -98 -14 -70
+rect 14 -98 19 -70
+rect -19 -126 19 -98
+rect -19 -154 -14 -126
+rect 14 -154 19 -126
+rect -19 -182 19 -154
+rect -19 -210 -14 -182
+rect 14 -210 19 -182
+rect -19 -215 19 -210
+<< via2 >>
+rect -14 182 14 210
+rect -14 126 14 154
+rect -14 70 14 98
+rect -14 14 14 42
+rect -14 -42 14 -14
+rect -14 -98 14 -70
+rect -14 -154 14 -126
+rect -14 -210 14 -182
+<< metal3 >>
+rect -19 210 19 215
+rect -19 182 -14 210
+rect 14 182 19 210
+rect -19 154 19 182
+rect -19 126 -14 154
+rect 14 126 19 154
+rect -19 98 19 126
+rect -19 70 -14 98
+rect 14 70 19 98
+rect -19 42 19 70
+rect -19 14 -14 42
+rect 14 14 19 42
+rect -19 -14 19 14
+rect -19 -42 -14 -14
+rect 14 -42 19 -14
+rect -19 -70 19 -42
+rect -19 -98 -14 -70
+rect 14 -98 19 -70
+rect -19 -126 19 -98
+rect -19 -154 -14 -126
+rect 14 -154 19 -126
+rect -19 -182 19 -154
+rect -19 -210 -14 -182
+rect 14 -210 19 -182
+rect -19 -215 19 -210
+<< properties >>
+string GDS_END 1879994
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram256x8m8wm1.gds
+string GDS_START 1879350
+<< end >>

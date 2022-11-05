@@ -1,0 +1,369 @@
+magic
+tech gf180mcuC
+magscale 1 10
+timestamp 1666464484
+use M2_M14310591302012_512x8m81  M2_M14310591302012_512x8m81_0
+timestamp 1666464484
+transform 1 0 60052 0 1 4068
+box -162 -224 162 224
+use M2_M14310591302012_512x8m81  M2_M14310591302012_512x8m81_1
+timestamp 1666464484
+transform 1 0 28915 0 1 4068
+box -162 -224 162 224
+use M3_M2431059130206_512x8m81  M3_M2431059130206_512x8m81_0
+timestamp 1666464484
+transform 1 0 60052 0 1 4068
+box -162 -224 162 224
+use M3_M2431059130206_512x8m81  M3_M2431059130206_512x8m81_1
+timestamp 1666464484
+transform 1 0 28915 0 1 4068
+box -162 -224 162 224
+use power_route_01_512x8m81  power_route_01_512x8m81_0
+timestamp 1666464484
+transform -1 0 85469 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_1
+timestamp 1666464484
+transform -1 0 25893 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_2
+timestamp 1666464484
+transform 1 0 9233 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_3
+timestamp 1666464484
+transform 1 0 20033 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_4
+timestamp 1666464484
+transform 1 0 14633 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_5
+timestamp 1666464484
+transform 1 0 63409 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_6
+timestamp 1666464484
+transform 1 0 79609 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_7
+timestamp 1666464484
+transform 1 0 74209 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_8
+timestamp 1666464484
+transform 1 0 68809 0 1 96614
+box -511 0 1714 2425
+use power_route_01_512x8m81  power_route_01_512x8m81_9
+timestamp 1666464484
+transform 1 0 3833 0 1 96614
+box -511 0 1714 2425
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_0
+timestamp 1666464484
+transform 1 0 -1418 0 1 93889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_1
+timestamp 1666464484
+transform 1 0 -1418 0 1 90289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_2
+timestamp 1666464484
+transform 1 0 -1418 0 1 92089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_3
+timestamp 1666464484
+transform 1 0 -1418 0 1 83089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_4
+timestamp 1666464484
+transform 1 0 -1418 0 1 84889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_5
+timestamp 1666464484
+transform 1 0 -1418 0 1 88489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_6
+timestamp 1666464484
+transform 1 0 -1418 0 1 86689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_7
+timestamp 1666464484
+transform 1 0 -1418 0 1 81289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_8
+timestamp 1666464484
+transform 1 0 -1418 0 1 79489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_9
+timestamp 1666464484
+transform 1 0 -1418 0 1 75889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_10
+timestamp 1666464484
+transform 1 0 -1418 0 1 77689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_11
+timestamp 1666464484
+transform 1 0 -1418 0 1 68689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_12
+timestamp 1666464484
+transform 1 0 -1418 0 1 70489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_13
+timestamp 1666464484
+transform 1 0 -1418 0 1 74089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_14
+timestamp 1666464484
+transform 1 0 -1418 0 1 72289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_15
+timestamp 1666464484
+transform 1 0 -1418 0 1 66889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_16
+timestamp 1666464484
+transform 1 0 -1418 0 1 65089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_17
+timestamp 1666464484
+transform 1 0 -1418 0 1 61489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_18
+timestamp 1666464484
+transform 1 0 -1418 0 1 63289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_19
+timestamp 1666464484
+transform 1 0 -1418 0 1 54289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_20
+timestamp 1666464484
+transform 1 0 -1418 0 1 56089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_21
+timestamp 1666464484
+transform 1 0 -1418 0 1 59689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_22
+timestamp 1666464484
+transform 1 0 -1418 0 1 57889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_23
+timestamp 1666464484
+transform 1 0 -1418 0 1 52489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_24
+timestamp 1666464484
+transform 1 0 -1418 0 1 50689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_25
+timestamp 1666464484
+transform 1 0 -1418 0 1 47089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_26
+timestamp 1666464484
+transform 1 0 -1418 0 1 48889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_27
+timestamp 1666464484
+transform 1 0 -1418 0 1 39889
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_28
+timestamp 1666464484
+transform 1 0 -1418 0 1 41689
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_29
+timestamp 1666464484
+transform 1 0 -1418 0 1 45289
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_30
+timestamp 1666464484
+transform 1 0 -1418 0 1 43489
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_31
+timestamp 1666464484
+transform 1 0 -1418 0 1 38089
+box 3339 -250 30611 1350
+use power_route_02_a_512x8m81  power_route_02_a_512x8m81_32
+timestamp 1666464484
+transform 1 0 -1418 0 1 95689
+box 3339 -250 30611 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_0
+timestamp 1666464484
+transform -1 0 91632 0 1 39889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_1
+timestamp 1666464484
+transform -1 0 91632 0 1 41689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_2
+timestamp 1666464484
+transform -1 0 91632 0 1 43489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_3
+timestamp 1666464484
+transform -1 0 91632 0 1 45289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_4
+timestamp 1666464484
+transform -1 0 91632 0 1 47089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_5
+timestamp 1666464484
+transform -1 0 91632 0 1 48889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_6
+timestamp 1666464484
+transform -1 0 91632 0 1 50689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_7
+timestamp 1666464484
+transform -1 0 91632 0 1 52489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_8
+timestamp 1666464484
+transform -1 0 91632 0 1 54289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_9
+timestamp 1666464484
+transform -1 0 91632 0 1 56089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_10
+timestamp 1666464484
+transform -1 0 91632 0 1 57889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_11
+timestamp 1666464484
+transform -1 0 91632 0 1 59689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_12
+timestamp 1666464484
+transform -1 0 91632 0 1 61489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_13
+timestamp 1666464484
+transform -1 0 91632 0 1 63289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_14
+timestamp 1666464484
+transform -1 0 91632 0 1 65089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_15
+timestamp 1666464484
+transform -1 0 91632 0 1 66889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_16
+timestamp 1666464484
+transform -1 0 91632 0 1 68689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_17
+timestamp 1666464484
+transform -1 0 91632 0 1 70489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_18
+timestamp 1666464484
+transform -1 0 91632 0 1 72289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_19
+timestamp 1666464484
+transform -1 0 91632 0 1 74089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_20
+timestamp 1666464484
+transform -1 0 91632 0 1 75889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_21
+timestamp 1666464484
+transform -1 0 91632 0 1 77689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_22
+timestamp 1666464484
+transform -1 0 91632 0 1 79489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_23
+timestamp 1666464484
+transform -1 0 91632 0 1 81289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_24
+timestamp 1666464484
+transform -1 0 91632 0 1 83089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_25
+timestamp 1666464484
+transform -1 0 91632 0 1 84889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_26
+timestamp 1666464484
+transform -1 0 91632 0 1 86689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_27
+timestamp 1666464484
+transform -1 0 91632 0 1 88489
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_28
+timestamp 1666464484
+transform -1 0 91632 0 1 90289
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_29
+timestamp 1666464484
+transform -1 0 91632 0 1 92089
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_30
+timestamp 1666464484
+transform -1 0 91632 0 1 93889
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_31
+timestamp 1666464484
+transform -1 0 91632 0 1 95689
+box 3339 -250 30290 1350
+use power_route_02_b_512x8m81  power_route_02_b_512x8m81_32
+timestamp 1666464484
+transform -1 0 91632 0 1 38089
+box 3339 -250 30290 1350
+use power_route_04_512x8m81  power_route_04_512x8m81_0
+timestamp 1666464484
+transform -1 0 91632 0 1 244
+box 3339 2101 6632 52645
+use power_route_04_512x8m81  power_route_04_512x8m81_1
+timestamp 1666464484
+transform 1 0 -1418 0 1 244
+box 3339 2101 6632 52645
+use power_route_05_512x8m81  power_route_05_512x8m81_0
+timestamp 1666464484
+transform 1 0 19656 0 1 230
+box -8 2115 1235 7462
+use power_route_05_512x8m81  power_route_05_512x8m81_1
+timestamp 1666464484
+transform 1 0 68432 0 1 230
+box -8 2115 1235 7462
+use power_route_05_512x8m81  power_route_05_512x8m81_2
+timestamp 1666464484
+transform 1 0 79232 0 1 230
+box -8 2115 1235 7462
+use power_route_05_512x8m81  power_route_05_512x8m81_3
+timestamp 1666464484
+transform 1 0 8856 0 1 230
+box -8 2115 1235 7462
+use power_route_06_512x8m81  power_route_06_512x8m81_0
+timestamp 1666464484
+transform 1 0 61241 0 1 230
+box -7 2115 1234 18431
+use power_route_06_512x8m81  power_route_06_512x8m81_1
+timestamp 1666464484
+transform 1 0 26784 0 1 230
+box -7 2115 1234 18431
+use power_route_07_512x8m81  power_route_07_512x8m81_0
+timestamp 1666464484
+transform 1 0 40746 0 1 230
+box -8 3065 1235 7462
+use power_route_07_512x8m81  power_route_07_512x8m81_1
+timestamp 1666464484
+transform 1 0 38926 0 1 230
+box -8 3065 1235 7462
+<< properties >>
+string GDS_END 2841788
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram512x8m8wm1.gds
+string GDS_START 2836672
+<< end >>

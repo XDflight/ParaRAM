@@ -1,0 +1,107 @@
+magic
+tech gf180mcuB
+timestamp 1667403374
+<< metal1 >>
+rect 0 147 96 159
+rect 11 106 16 147
+rect 28 91 33 140
+rect 45 106 50 147
+rect 62 91 67 140
+rect 79 106 84 147
+rect 28 86 67 91
+rect 8 67 18 73
+rect 28 43 33 86
+rect 59 84 67 86
+rect 62 43 67 84
+rect 28 38 67 43
+rect 11 9 16 33
+rect 28 16 33 38
+rect 45 9 50 33
+rect 62 16 67 38
+rect 79 9 84 33
+rect 0 -3 96 9
+<< metal2 >>
+rect 10 154 18 155
+rect 34 154 42 155
+rect 58 154 66 155
+rect 9 148 19 154
+rect 33 148 43 154
+rect 57 148 67 154
+rect 10 147 18 148
+rect 34 147 42 148
+rect 58 147 66 148
+rect 59 84 69 92
+rect 8 66 18 74
+rect 10 8 18 9
+rect 34 8 42 9
+rect 58 8 66 9
+rect 9 2 19 8
+rect 33 2 43 8
+rect 57 2 67 8
+rect 10 1 18 2
+rect 34 1 42 2
+rect 58 1 66 2
+<< labels >>
+rlabel metal2 s 8 66 18 74 6 A
+port 1 nsew signal input
+rlabel metal1 s 8 67 18 73 6 A
+port 1 nsew signal input
+rlabel metal2 s 10 147 18 155 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 9 148 19 154 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 34 147 42 155 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 33 148 43 154 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 58 147 66 155 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 57 148 67 154 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 11 106 16 159 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 45 106 50 159 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 79 106 84 159 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 0 147 96 159 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 10 1 18 9 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 9 2 19 8 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 34 1 42 9 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 33 2 43 8 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 58 1 66 9 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 57 2 67 8 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 11 -3 16 33 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 45 -3 50 33 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 79 -3 84 33 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 0 -3 96 9 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 59 84 69 92 6 Y
+port 4 nsew signal output
+rlabel metal1 s 28 16 33 140 6 Y
+port 4 nsew signal output
+rlabel metal1 s 28 38 67 43 6 Y
+port 4 nsew signal output
+rlabel metal1 s 59 84 67 91 6 Y
+port 4 nsew signal output
+rlabel metal1 s 28 86 67 91 6 Y
+port 4 nsew signal output
+rlabel metal1 s 62 16 67 140 6 Y
+port 4 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 -3 96 159
+string LEFclass CORE
+string LEFsite GF018hv5v_mcu_sc7
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

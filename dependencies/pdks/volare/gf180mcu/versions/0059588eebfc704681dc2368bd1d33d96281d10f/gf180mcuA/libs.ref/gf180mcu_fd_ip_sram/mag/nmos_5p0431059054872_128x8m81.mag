@@ -1,0 +1,45 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< mvnmos >>
+rect 0 0 120 114
+rect 224 0 344 114
+<< mvndiff >>
+rect -88 80 0 114
+rect -88 34 -75 80
+rect -29 34 0 80
+rect -88 0 0 34
+rect 120 80 224 114
+rect 120 34 149 80
+rect 195 34 224 80
+rect 120 0 224 34
+rect 344 80 432 114
+rect 344 34 373 80
+rect 419 34 432 80
+rect 344 0 432 34
+<< mvndiffc >>
+rect -75 34 -29 80
+rect 149 34 195 80
+rect 373 34 419 80
+<< polysilicon >>
+rect 0 114 120 158
+rect 224 114 344 158
+rect 0 -44 120 0
+rect 224 -44 344 0
+<< metal1 >>
+rect -75 80 -29 114
+rect -75 0 -29 34
+rect 149 80 195 114
+rect 149 0 195 34
+rect 373 80 419 114
+rect 373 0 419 34
+<< labels >>
+flabel metal1 s -52 57 -52 57 0 FreeSans 200 0 0 0 S
+flabel metal1 s 396 57 396 57 0 FreeSans 200 0 0 0 S
+flabel metal1 s 172 57 172 57 0 FreeSans 200 0 0 0 D
+<< properties >>
+string GDS_END 48838
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram128x8m8wm1.gds
+string GDS_START 47368
+<< end >>

@@ -1,0 +1,84 @@
+magic
+tech gf180mcuA
+timestamp 1667403424
+<< metal1 >>
+rect 0 147 56 159
+rect 11 106 16 147
+rect 39 97 44 140
+rect 25 92 44 97
+rect 25 86 30 92
+rect 23 80 33 86
+rect 9 67 19 73
+rect 8 9 13 33
+rect 25 16 30 80
+rect 37 54 47 60
+rect 42 9 47 33
+rect 0 -3 56 9
+<< metal2 >>
+rect 10 154 18 155
+rect 34 154 42 155
+rect 9 148 19 154
+rect 33 148 43 154
+rect 10 147 18 148
+rect 34 147 42 148
+rect 23 79 33 87
+rect 9 66 19 74
+rect 37 53 47 61
+rect 10 8 18 9
+rect 34 8 42 9
+rect 9 2 19 8
+rect 33 2 43 8
+rect 10 1 18 2
+rect 34 1 42 2
+<< labels >>
+rlabel metal2 s 9 66 19 74 6 A
+port 1 nsew signal input
+rlabel metal1 s 9 67 19 73 6 A
+port 1 nsew signal input
+rlabel metal2 s 37 53 47 61 6 B
+port 2 nsew signal input
+rlabel metal1 s 37 54 47 60 6 B
+port 2 nsew signal input
+rlabel metal2 s 10 147 18 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 9 148 19 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 34 147 42 155 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 33 148 43 154 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 11 106 16 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal1 s 0 147 56 159 6 VDD
+port 3 nsew power bidirectional abutment
+rlabel metal2 s 10 1 18 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 9 2 19 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 34 1 42 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 33 2 43 8 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 8 -3 13 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 42 -3 47 33 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal1 s 0 -3 56 9 6 VSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 23 79 33 87 6 Y
+port 5 nsew signal output
+rlabel metal1 s 25 16 30 97 6 Y
+port 5 nsew signal output
+rlabel metal1 s 23 80 33 86 6 Y
+port 5 nsew signal output
+rlabel metal1 s 25 92 44 97 6 Y
+port 5 nsew signal output
+rlabel metal1 s 39 92 44 140 6 Y
+port 5 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 -3 56 159
+string LEFclass CORE
+string LEFsite GF018hv5v_mcu_sc7
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

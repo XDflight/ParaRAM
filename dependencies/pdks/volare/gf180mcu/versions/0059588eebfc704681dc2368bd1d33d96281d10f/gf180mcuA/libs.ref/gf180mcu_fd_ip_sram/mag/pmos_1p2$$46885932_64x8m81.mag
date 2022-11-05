@@ -1,0 +1,20 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< nwell >>
+rect -286 -141 568 332
+<< polysilicon >>
+rect -31 191 89 264
+rect 193 191 313 264
+rect -31 -74 89 0
+rect 193 -73 313 0
+use pmos_5p0431058998327_64x8m81  pmos_5p0431058998327_64x8m81_0
+timestamp 1666464484
+transform 1 0 -31 0 1 0
+box -208 -120 552 312
+<< properties >>
+string GDS_END 272610
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram64x8m8wm1.gds
+string GDS_START 272170
+<< end >>

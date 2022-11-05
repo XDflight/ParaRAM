@@ -1,0 +1,16 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< metal3 >>
+rect -511 630 489 2430
+use M3_M24310590548781_128x8m81  M3_M24310590548781_128x8m81_0
+timestamp 1666464484
+transform 1 0 -12 0 1 1126
+box -472 -472 472 472
+<< properties >>
+string GDS_END 2298012
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram128x8m8wm1.gds
+string GDS_START 2297902
+string path -0.055 3.150 -0.055 12.150 
+<< end >>

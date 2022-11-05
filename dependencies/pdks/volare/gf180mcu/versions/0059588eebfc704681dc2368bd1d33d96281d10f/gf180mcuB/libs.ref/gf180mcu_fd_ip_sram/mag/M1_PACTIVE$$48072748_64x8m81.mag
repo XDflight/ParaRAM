@@ -1,0 +1,54 @@
+magic
+tech gf180mcuB
+magscale 1 10
+timestamp 1666464484
+<< psubdiff >>
+rect -947 23 947 80
+rect -947 -23 -893 23
+rect -847 -23 -735 23
+rect -689 -23 -577 23
+rect -531 -23 -418 23
+rect -372 -23 -260 23
+rect -214 -23 -102 23
+rect -56 -23 56 23
+rect 102 -23 214 23
+rect 260 -23 372 23
+rect 418 -23 531 23
+rect 577 -23 689 23
+rect 735 -23 847 23
+rect 893 -23 947 23
+rect -947 -80 947 -23
+<< psubdiffcont >>
+rect -893 -23 -847 23
+rect -735 -23 -689 23
+rect -577 -23 -531 23
+rect -418 -23 -372 23
+rect -260 -23 -214 23
+rect -102 -23 -56 23
+rect 56 -23 102 23
+rect 214 -23 260 23
+rect 372 -23 418 23
+rect 531 -23 577 23
+rect 689 -23 735 23
+rect 847 -23 893 23
+<< metal1 >>
+rect -928 23 927 60
+rect -928 -23 -893 23
+rect -847 -23 -735 23
+rect -689 -23 -577 23
+rect -531 -23 -418 23
+rect -372 -23 -260 23
+rect -214 -23 -102 23
+rect -56 -23 56 23
+rect 102 -23 214 23
+rect 260 -23 372 23
+rect 418 -23 531 23
+rect 577 -23 689 23
+rect 735 -23 847 23
+rect 893 -23 927 23
+rect -928 -60 927 -23
+<< properties >>
+string GDS_END 807032
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram64x8m8wm1.gds
+string GDS_START 806068
+<< end >>

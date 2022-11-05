@@ -1,0 +1,64 @@
+magic
+tech gf180mcuB
+magscale 1 10
+timestamp 1666464484
+<< nwell >>
+rect -203 44 822 781
+<< pmos >>
+rect 73 185 546 640
+<< pdiff >>
+rect -67 595 73 640
+rect -67 549 -23 595
+rect 23 549 73 595
+rect -67 277 73 549
+rect -67 231 -23 277
+rect 23 231 73 277
+rect -67 185 73 231
+rect 546 595 686 640
+rect 546 549 596 595
+rect 642 549 686 595
+rect 546 277 686 549
+rect 546 231 596 277
+rect 642 231 686 277
+rect 546 185 686 231
+<< pdiffc >>
+rect -23 549 23 595
+rect -23 231 23 277
+rect 596 549 642 595
+rect 596 231 642 277
+<< polysilicon >>
+rect 73 794 546 849
+rect 73 748 126 794
+rect 172 748 447 794
+rect 493 748 546 794
+rect 73 640 546 748
+rect 73 103 546 185
+<< polycontact >>
+rect 126 748 172 794
+rect 447 748 493 794
+<< metal1 >>
+rect -1 794 620 881
+rect -1 748 126 794
+rect 172 748 447 794
+rect 493 748 620 794
+rect -1 711 620 748
+rect -58 595 58 631
+rect -58 549 -23 595
+rect 23 549 58 595
+rect -58 277 58 549
+rect -58 231 -23 277
+rect 23 231 58 277
+rect -58 -119 58 231
+rect 561 595 677 631
+rect 561 549 596 595
+rect 642 549 677 595
+rect 561 277 677 549
+rect 561 231 596 277
+rect 642 231 677 277
+rect 561 -119 677 231
+rect -58 -284 677 -119
+<< properties >>
+string GDS_END 2047150
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram256x8m8wm1.gds
+string GDS_START 2046250
+<< end >>

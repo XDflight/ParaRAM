@@ -1,0 +1,89 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< mvnmos >>
+rect 0 0 120 572
+rect 224 0 344 572
+rect 448 0 568 572
+rect 672 0 792 572
+rect 896 0 1016 572
+rect 1120 0 1240 572
+<< mvndiff >>
+rect -88 559 0 572
+rect -88 13 -75 559
+rect -29 13 0 559
+rect -88 0 0 13
+rect 120 559 224 572
+rect 120 13 149 559
+rect 195 13 224 559
+rect 120 0 224 13
+rect 344 559 448 572
+rect 344 13 373 559
+rect 419 13 448 559
+rect 344 0 448 13
+rect 568 559 672 572
+rect 568 13 597 559
+rect 643 13 672 559
+rect 568 0 672 13
+rect 792 559 896 572
+rect 792 13 821 559
+rect 867 13 896 559
+rect 792 0 896 13
+rect 1016 559 1120 572
+rect 1016 13 1045 559
+rect 1091 13 1120 559
+rect 1016 0 1120 13
+rect 1240 559 1328 572
+rect 1240 13 1269 559
+rect 1315 13 1328 559
+rect 1240 0 1328 13
+<< mvndiffc >>
+rect -75 13 -29 559
+rect 149 13 195 559
+rect 373 13 419 559
+rect 597 13 643 559
+rect 821 13 867 559
+rect 1045 13 1091 559
+rect 1269 13 1315 559
+<< polysilicon >>
+rect 0 572 120 616
+rect 224 572 344 616
+rect 448 572 568 616
+rect 672 572 792 616
+rect 896 572 1016 616
+rect 1120 572 1240 616
+rect 0 -44 120 0
+rect 224 -44 344 0
+rect 448 -44 568 0
+rect 672 -44 792 0
+rect 896 -44 1016 0
+rect 1120 -44 1240 0
+<< metal1 >>
+rect -75 559 -29 572
+rect -75 0 -29 13
+rect 149 559 195 572
+rect 149 0 195 13
+rect 373 559 419 572
+rect 373 0 419 13
+rect 597 559 643 572
+rect 597 0 643 13
+rect 821 559 867 572
+rect 821 0 867 13
+rect 1045 559 1091 572
+rect 1045 0 1091 13
+rect 1269 559 1315 572
+rect 1269 0 1315 13
+<< labels >>
+flabel metal1 s -52 286 -52 286 0 FreeSans 200 0 0 0 S
+flabel metal1 s 1292 286 1292 286 0 FreeSans 200 0 0 0 S
+flabel metal1 s 172 286 172 286 0 FreeSans 200 0 0 0 D
+flabel metal1 s 396 286 396 286 0 FreeSans 200 0 0 0 S
+flabel metal1 s 620 286 620 286 0 FreeSans 200 0 0 0 D
+flabel metal1 s 844 286 844 286 0 FreeSans 200 0 0 0 S
+flabel metal1 s 1068 286 1068 286 0 FreeSans 200 0 0 0 D
+<< properties >>
+string GDS_END 95232
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram256x8m8wm1.gds
+string GDS_START 89738
+<< end >>

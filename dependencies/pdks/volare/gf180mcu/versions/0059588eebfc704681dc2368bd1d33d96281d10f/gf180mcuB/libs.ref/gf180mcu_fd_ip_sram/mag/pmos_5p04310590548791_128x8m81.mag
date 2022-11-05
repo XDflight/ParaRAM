@@ -1,0 +1,36 @@
+magic
+tech gf180mcuB
+magscale 1 10
+timestamp 1666464484
+<< nwell >>
+rect -208 -120 328 4656
+<< mvpmos >>
+rect 0 0 120 4536
+<< mvpdiff >>
+rect -88 4523 0 4536
+rect -88 13 -75 4523
+rect -29 13 0 4523
+rect -88 0 0 13
+rect 120 4523 208 4536
+rect 120 13 149 4523
+rect 195 13 208 4523
+rect 120 0 208 13
+<< mvpdiffc >>
+rect -75 13 -29 4523
+rect 149 13 195 4523
+<< polysilicon >>
+rect 0 4536 120 4580
+rect 0 -44 120 0
+<< metal1 >>
+rect -75 4523 -29 4536
+rect -75 0 -29 13
+rect 149 4523 195 4536
+rect 149 0 195 13
+<< labels >>
+flabel metal1 s -52 2268 -52 2268 0 FreeSans 400 0 0 0 S
+flabel metal1 s 172 2268 172 2268 0 FreeSans 400 0 0 0 D
+<< properties >>
+string GDS_END 377096
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram128x8m8wm1.gds
+string GDS_START 370376
+<< end >>

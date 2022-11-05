@@ -1,0 +1,21 @@
+magic
+tech gf180mcuC
+magscale 1 10
+timestamp 1666464484
+<< psubdiff >>
+rect -42 9423 642 9442
+rect -42 -23 -23 9423
+rect 623 -23 642 9423
+rect -42 -42 642 -23
+<< psubdiffcont >>
+rect -23 -23 623 9423
+<< metal1 >>
+rect -34 9423 634 9434
+rect -34 -23 -23 9423
+rect 623 -23 634 9423
+rect -34 -34 634 -23
+<< properties >>
+string GDS_END 1907734
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_ip_sram/gds/gf180mcu_fd_ip_sram__sram64x8m8wm1.gds
+string GDS_START 1864978
+<< end >>

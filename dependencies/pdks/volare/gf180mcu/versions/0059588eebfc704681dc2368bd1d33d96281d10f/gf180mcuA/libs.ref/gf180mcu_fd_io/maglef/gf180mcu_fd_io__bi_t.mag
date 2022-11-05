@@ -1,0 +1,261 @@
+magic
+tech gf180mcuA
+magscale 1 10
+timestamp 1666464484
+<< obsm1 >>
+rect -32 13108 15032 69957
+<< metal2 >>
+rect 672 65709 748 70000
+rect 1193 66084 1269 70000
+rect 1422 52933 1498 70000
+rect 1564 52998 1640 70000
+rect 2066 66020 2142 70000
+rect 2277 66984 2353 70000
+rect 13734 53028 13810 70000
+rect 13880 52892 13956 70000
+rect 14026 53268 14102 70000
+rect 14172 63980 14248 70000
+<< obsm2 >>
+rect 0 65649 612 69675
+rect 808 66024 1133 69675
+rect 1329 66024 1362 69675
+rect 808 65649 1362 66024
+rect 0 52873 1362 65649
+rect 1700 65960 2006 69675
+rect 2202 66924 2217 69675
+rect 2413 66924 13674 69675
+rect 2202 65960 13674 66924
+rect 1700 52968 13674 65960
+rect 1700 52938 13820 52968
+rect 1558 52873 13820 52938
+rect 14308 63920 15000 69675
+rect 14162 53208 15000 63920
+rect 0 52832 13820 52873
+rect 14016 52832 15000 53208
+rect 0 0 15000 52832
+<< metal3 >>
+rect 0 68400 1864 69678
+rect 0 66800 915 68200
+rect 13600 68400 15000 69678
+rect 0 65200 1864 66600
+rect 0 63600 200 65000
+rect 14718 66800 15000 68200
+rect 12720 65200 15000 66600
+rect 0 62000 200 63400
+rect 14800 63600 15000 65000
+rect 0 60400 5111 61800
+rect 0 58800 3586 60200
+rect 14258 62000 15000 63400
+rect 10816 60400 15000 61800
+rect 0 57200 4576 58600
+rect 14718 58800 15000 60200
+rect 0 55600 3586 57000
+rect 11051 57200 15000 58600
+rect 0 54000 3586 55400
+rect 9889 55600 15000 57000
+rect 0 52400 1814 53800
+rect 13439 54000 15000 55400
+rect 0 50800 200 52200
+rect 14718 52400 15000 53800
+rect 0 49200 200 50600
+rect 11234 50800 15000 52200
+rect 0 46000 200 49000
+rect 14800 49200 15000 50600
+rect 0 42800 464 45800
+rect 11930 46000 15000 49000
+rect 0 41200 1963 42600
+rect 14718 42800 15000 45800
+rect 0 39600 200 41000
+rect 14718 41200 15000 42600
+rect 0 36400 1762 39400
+rect 13225 39600 15000 41000
+rect 0 33200 1781 36200
+rect 0 30000 1781 33000
+rect 0 26800 1762 29800
+rect 14718 36400 15000 39400
+rect 14718 33200 15000 36200
+rect 14718 30000 15000 33000
+rect 0 25200 593 26600
+rect 14718 26800 15000 29800
+rect 0 23600 446 25000
+rect 14378 25200 15000 26600
+rect 0 20400 200 23400
+rect 14520 23600 15000 25000
+rect 0 17200 200 20200
+rect 0 14000 200 17000
+rect 12443 20400 15000 23400
+rect 12443 17200 15000 20200
+rect 12443 14000 15000 17000
+rect 5000 4000 10000 9000
+<< obsm3 >>
+rect 2224 68040 13240 69678
+rect 1275 66960 14358 68040
+rect 2224 64840 12360 66960
+rect 560 63760 14440 64840
+rect 560 62160 13898 63760
+rect 5471 60040 10456 62160
+rect 3946 58960 14358 60040
+rect 4936 57360 10691 58960
+rect 4936 56840 9529 57360
+rect 3946 55240 9529 56840
+rect 3946 53640 13079 55240
+rect 2174 52560 14358 53640
+rect 2174 52040 10874 52560
+rect 560 50440 10874 52040
+rect 560 49360 14440 50440
+rect 560 46160 11570 49360
+rect 824 45640 11570 46160
+rect 824 42960 14358 45640
+rect 2323 41360 14358 42960
+rect 2323 40840 12865 41360
+rect 560 39760 12865 40840
+rect 2122 39240 12865 39760
+rect 2122 36560 14358 39240
+rect 2141 29640 14358 36560
+rect 2122 26960 14358 29640
+rect 2122 26440 14018 26960
+rect 953 24840 14018 26440
+rect 806 23760 14160 24840
+rect 806 23240 12083 23760
+rect 560 13640 12083 23240
+rect 133 9360 14800 13640
+rect 133 3640 4640 9360
+rect 10360 3640 14800 9360
+rect 133 0 14800 3640
+<< labels >>
+rlabel metal2 s 13880 52892 13956 70000 6 A
+port 1 nsew signal input
+rlabel metal2 s 672 65709 748 70000 6 CS
+port 2 nsew signal input
+rlabel metal3 s 14520 23600 15000 25000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 36400 15000 39400 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 33200 15000 36200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 30000 15000 33000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 26800 15000 29800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 42800 15000 45800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 41200 15000 42600 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 9889 55600 15000 57000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 13439 54000 15000 55400 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 52400 15000 53800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 58800 15000 60200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 14718 66800 15000 68200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 66800 915 68200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 58800 3586 60200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 52400 1814 53800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 54000 3586 55400 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 55600 3586 57000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 41200 1963 42600 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 42800 464 45800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 26800 1762 29800 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 30000 1781 33000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 33200 1781 36200 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 36400 1762 39400 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 0 23600 446 25000 6 DVDD
+port 3 nsew power bidirectional
+rlabel metal3 s 12443 20400 15000 23400 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 12443 17200 15000 20200 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 12443 14000 15000 17000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 14378 25200 15000 26600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 13225 39600 15000 41000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 11930 46000 15000 49000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 11051 57200 15000 58600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 10816 60400 15000 61800 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 12720 65200 15000 66600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 13600 68400 15000 69678 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 68400 1864 69678 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 65200 1864 66600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 60400 5111 61800 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 57200 4576 58600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 46000 200 49000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 39600 200 41000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 25200 593 26600 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 14000 200 17000 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 17200 200 20200 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal3 s 0 20400 200 23400 6 DVSS
+port 4 nsew ground bidirectional
+rlabel metal2 s 2277 66984 2353 70000 6 IE
+port 5 nsew signal input
+rlabel metal2 s 14026 53268 14102 70000 6 OE
+port 6 nsew signal input
+rlabel metal3 s 5000 4000 10000 9000 6 PAD
+port 7 nsew signal bidirectional
+rlabel metal2 s 2066 66020 2142 70000 6 PD
+port 8 nsew signal input
+rlabel metal2 s 1422 52933 1498 70000 6 PDRV0
+port 9 nsew signal input
+rlabel metal2 s 1564 52998 1640 70000 6 PDRV1
+port 10 nsew signal input
+rlabel metal2 s 1193 66084 1269 70000 6 PU
+port 11 nsew signal input
+rlabel metal2 s 13734 53028 13810 70000 6 SL
+port 12 nsew signal input
+rlabel metal3 s 11234 50800 15000 52200 6 VDD
+port 13 nsew power bidirectional
+rlabel metal3 s 14258 62000 15000 63400 6 VDD
+port 13 nsew power bidirectional
+rlabel metal3 s 0 62000 200 63400 6 VDD
+port 13 nsew power bidirectional
+rlabel metal3 s 0 50800 200 52200 6 VDD
+port 13 nsew power bidirectional
+rlabel metal3 s 14800 49200 15000 50600 6 VSS
+port 14 nsew ground bidirectional
+rlabel metal3 s 14800 63600 15000 65000 6 VSS
+port 14 nsew ground bidirectional
+rlabel metal3 s 0 63600 200 65000 6 VSS
+port 14 nsew ground bidirectional
+rlabel metal3 s 0 49200 200 50600 6 VSS
+port 14 nsew ground bidirectional
+rlabel metal2 s 14172 63980 14248 70000 6 Y
+port 15 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 0 15000 70000
+string LEFclass PAD INOUT
+string LEFsite GF_IO_Site
+string LEFsymmetry X Y R90
+string LEFview TRUE
+string GDS_END 2812768
+string GDS_FILE $PDKPATH/libs.ref/gf180mcu_fd_io/gds/gf180mcu_fd_io.gds
+string GDS_START 2810912
+<< end >>

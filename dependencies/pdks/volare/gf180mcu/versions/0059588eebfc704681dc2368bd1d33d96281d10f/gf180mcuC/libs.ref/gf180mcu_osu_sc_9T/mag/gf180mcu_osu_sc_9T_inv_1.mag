@@ -1,0 +1,55 @@
+magic
+tech gf180mcuC
+timestamp 1667403419
+<< metal1 >>
+rect 0 111 44 123
+rect 11 70 16 111
+rect 28 76 33 104
+rect 26 70 36 76
+rect 11 44 21 50
+rect 11 12 16 36
+rect 28 19 33 70
+rect 0 0 44 12
+<< metal2 >>
+rect 10 118 18 119
+rect 9 112 19 118
+rect 10 111 18 112
+rect 26 69 36 77
+rect 11 43 21 51
+rect 10 11 18 12
+rect 9 5 19 11
+rect 10 4 18 5
+<< labels >>
+rlabel metal2 s 11 43 21 51 6 A
+port 1 nsew signal input
+rlabel metal1 s 11 44 21 50 6 A
+port 1 nsew signal input
+rlabel metal2 s 10 111 18 119 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 9 112 19 118 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 11 70 16 123 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal1 s 0 111 44 123 6 VDD
+port 2 nsew power bidirectional abutment
+rlabel metal2 s 10 4 18 12 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 9 5 19 11 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 11 0 16 36 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal1 s 0 0 44 12 6 VSS
+port 3 nsew ground bidirectional
+rlabel metal2 s 26 69 36 77 6 Y
+port 4 nsew signal output
+rlabel metal1 s 28 19 33 104 6 Y
+port 4 nsew signal output
+rlabel metal1 s 26 70 36 76 6 Y
+port 4 nsew signal output
+<< properties >>
+string FIXED_BBOX 0 0 44 123
+string LEFclass CORE
+string LEFsite GF018hv5v_mcu_sc7
+string LEFsymmetry X Y
+string LEFview TRUE
+<< end >>

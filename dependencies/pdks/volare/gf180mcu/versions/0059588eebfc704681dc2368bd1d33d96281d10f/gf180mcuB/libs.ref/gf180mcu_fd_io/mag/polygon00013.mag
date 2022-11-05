@@ -1,0 +1,12 @@
+magic
+tech gf180mcuB
+magscale 1 10
+timestamp 1667403392
+<< checkpaint >>
+rect 66400 66400 73000 73000
+<< metal3 >>
+rect 68400 69678 69678 71000
+rect 68400 68769 71000 69678
+tri 68400 68400 68769 68769 ne
+rect 68769 68400 71000 68769
+<< end >>
