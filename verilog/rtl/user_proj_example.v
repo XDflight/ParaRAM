@@ -36,8 +36,8 @@
  */
 
 module user_proj_example #(
-    parameter ADDR_WIDTH = 6   ,
-    parameter DATA_WIDTH = 24
+    parameter ADDR_WIDTH = 9   ,
+    parameter DATA_WIDTH = 16
 )(
 
 `ifdef USE_POWER_PINS
@@ -48,7 +48,7 @@ module user_proj_example #(
     // IOs
     input   [37:0]  io_in,
     output  [37:0]  io_out,
-    output  [37:0]  io_oeb,
+    output  [37:0]  io_oeb
 
 );
 

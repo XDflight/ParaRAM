@@ -91,7 +91,7 @@ user_proj_example mprj (
 
     .io_in (io_in),
     .io_out(io_out),
-    .io_oeb(io_oeb),
+    .io_oeb(io_oeb)
 
 );
 

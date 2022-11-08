@@ -1,7 +1,7 @@
 {
     "DESIGN_NAME": "user_project_wrapper",
     "VERILOG_FILES": ["dir::../../verilog/rtl/defines.v", "dir::../../verilog/rtl/user_defines.v", "dir::../../verilog/rtl/user_project_wrapper.v", "dir::../../verilog/rtl/user_proj_example.v"],
-    "CLOCK_PERIOD": 10,
+    "CLOCK_PERIOD": 20,
     "CLOCK_PORT": "io_in[5]",
     "CLOCK_NET": "mprj.clk",
     "FP_SIZING": "absolute",
