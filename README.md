@@ -50,7 +50,7 @@ _B6_|Address[6]
 _A6_|Address[7]
 _A7_|Address[8]
 
-## Usage Tips
+## Usage
 
 - Connect the power pins to proper power supplies.
 
@@ -58,4 +58,17 @@ _A7_|Address[8]
 
 - Set the **write control** pin to HIGH for writing data and to LOW for reading data. 
 
-- Set the **enable** pin to HIGH to commit the the command.
+- Hold the **enable** pin HIGH to commit commands continuously.
+
+## Build
+
+```
+git clone https://github.com/XDflight/ParaRAM.git
+cd ParaRAM
+source init.sh
+mkdir dependencies
+make setup
+make user_project_wrapper
+make precheck
+make run-precheck
+```
