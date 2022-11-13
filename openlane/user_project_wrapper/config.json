@@ -1,9 +1,11 @@
 {
     "DESIGN_NAME": "user_project_wrapper",
     "VERILOG_FILES": ["dir::../../verilog/rtl/defines.v", "dir::../../verilog/rtl/user_defines.v", "dir::../../verilog/rtl/user_project_wrapper.v", "dir::../../verilog/rtl/user_proj_example.v"],
-    "CLOCK_PERIOD": 20,
+    "CLOCK_PERIOD": 50,
     "CLOCK_PORT": "io_in[5]",
     "CLOCK_NET": "mprj.clk",
+    "SYNTH_STRATEGY": "AREA 0",
+    "FP_CORE_UTIL": 20,
     "FP_SIZING": "absolute",
     "SYNTH_ELABORATE_ONLY": 0,
     "MAGIC_ZEROIZE_ORIGIN": 0,
@@ -30,11 +32,14 @@
     "SYNTH_USE_PG_PINS_DEFINES": "USE_POWER_PINS",
     "pdk::sky130*": {
         "STD_CELL_LIBRARY": "",
+        "DIE_AREA": "0 0 2920 3520",
+        "FP_ASPECT_RATIO": 1.2,
         "FP_DEF_TEMPLATE": "dir::fixed_dont_change/user_project_wrapper.def"
     },
     "pdk::gf180mcu*": {
         "STD_CELL_LIBRARY": "gf180mcu_fd_sc_mcu7t5v0",
         "DIE_AREA": "0 0 3000 3000",
+        "FP_ASPECT_RATIO": 1.0,
         "FP_DEF_TEMPLATE": "dir::fixed_dont_change/user_project_wrapper_gf180mcu.def"
    }
 }
