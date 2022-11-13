@@ -7,4 +7,6 @@
 *.vcd
 *.gtkw
 *.DS_Store
-/dependencies/pdks/
+/dependencies/
+/caravel/
+/mgmt_core_wrapper/
