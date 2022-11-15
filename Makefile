@@ -217,7 +217,7 @@ precheck:
 		echo "Deleting exisiting $(PRECHECK_ROOT)" && \
 		rm -rf $(PRECHECK_ROOT) && sleep 2;\
 	fi
-	@git clone --depth=1 https://github.com/efabless/mpw_precheck.git $(PRECHECK_ROOT)
+	@git clone --depth=1 --branch $(MPW_TAG) https://github.com/efabless/mpw_precheck.git $(PRECHECK_ROOT)
 	@docker pull efabless/mpw_precheck:latest
 
 .PHONY: run-precheck
